@@ -1,1 +1,3 @@
 f1 en Dev
+Feature 1, una funcionalidad lamentable que encima no va a dar tiempo a probar
+Una mejora de Carlos.
